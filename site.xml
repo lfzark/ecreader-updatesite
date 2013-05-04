@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Ark" url="https://raw.github.com/lfzark/ecreader-updatesite/update/">
+   <description name="Ark" url="https://raw.github.com/lfzark/ecreader-updatesite/update">
    Ark
    </description>
    <feature url="features/ArkTool_1.0.0.201305041052.jar" id="com.arktool" version="20130503"/>
